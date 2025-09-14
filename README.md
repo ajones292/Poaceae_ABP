@@ -1,7 +1,7 @@
 # 20250906_v1_PoaceaeAnthos Scripts
 Python and R scripts that were used in the preparation and construction of phylogenetic trees, as well as in the creation of presence-absence matrices. Scripts are organized into folders based on their general utilization.
 ## KIPEs Baits Formatting
-A collection of Python scripts used to process and manipulate FASTA files containing CDS sequences for ANR, DFR, LAR, ANS, FLS, and F3H.
+A collection of Python scripts used to process and manipulate FASTA files containing CDS sequences
 ### `preappend_species_to_header.py`
 Reads file name and preappends Genus_species identifiers to FASTA headers
 ### `fasta_to_oneline.py`
